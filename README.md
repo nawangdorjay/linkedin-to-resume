@@ -1,5 +1,7 @@
 # 📄 LinkedIn to Resume Generator
 
+![Screenshot](screenshots/output.png)
+
 Convert your LinkedIn profile into a professional resume PDF in seconds. Paste your data, pick a template, download.
 
 Built by [Nawang Dorjay](https://github.com/nawangdorjay) — for **GSSoC 2026** (Agents for India Track).
